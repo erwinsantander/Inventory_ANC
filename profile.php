@@ -13,7 +13,7 @@
   endif;
 ?>
 <?php include_once('layouts/header.php'); ?>
-<div class="row">
+<div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
    <div class="col-md-4">
        <div class="panel profile">
          <div class="jumbotron text-center bg-red">

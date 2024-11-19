@@ -11,7 +11,7 @@ $sales = find_all_sale();
 <div class="row">
   
 </div>
-  <div class="row">
+  <div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
     <div class="col-md-12">
       <div class="panel panel-default">
         <div class="panel-heading clearfix">

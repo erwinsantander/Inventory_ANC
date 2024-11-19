@@ -47,7 +47,7 @@ $sales_result = $db->query($sales_query);
 include_once('layouts/header.php');
 ?>
 
-<div class="row">
+<div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
   <div class="col-md-6">
     <form method="post" action="ajax.php" autocomplete="on" id="sug-form">
         
@@ -57,7 +57,7 @@ include_once('layouts/header.php');
   </div>
 </div>
 
-<div class="row">
+<div class="row"style="margin-left: 250px; margin-top: 24px; margin-right: 10px;" >
   <div class="col-md-12">
     <div class="panel panel-default">
       <div class="panel-heading clearfix">

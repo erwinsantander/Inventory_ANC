@@ -14,11 +14,11 @@
  $recent_sales    = find_recent_sale_added('5')
 ?>
 <?php include_once('layouts/header.php'); ?>
-<div class="row">
+<div class="row" >
    <div class="col-md-6">
    </div>
 </div>
-  <div class="row">
+  <div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
     <a href="users.php" style="color:purple;">
 		<div class="col-md-3">
        <div class="panel  clearfix">
@@ -77,7 +77,7 @@
 
   <!-- Middle -->
 <!-- Monthly Sales Chart -->
-<div class="row">
+<div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
   <div class="col-md-12">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -158,7 +158,7 @@
 
 
   <!-- Bottom -->
-  <div class="row">
+  <div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
    <div class="col-md-4">
      <div class="panel panel-default">
        <div class="panel-heading">

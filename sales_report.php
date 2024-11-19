@@ -8,7 +8,7 @@ $page_title = 'Sale Report';
 <div class="row">
   
 </div>
-<div class="row">
+<div class="row" style="margin-left: 250px; margin-top: 24px; margin-right: 10px;">
   <div class="col-md-6">
     <div class="panel">
       <div class="panel-heading">
