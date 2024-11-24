@@ -15,7 +15,7 @@
     padding: 20px; /* Add padding to ensure content doesn't touch the edges */
 ">
     <div class="text-center">
-       <h1>Login Panel</h1>
+       <h1>Login Pane</h1>
        <h4>Inventory Management System</h4>
      </div>
       <form method="post" action="auth.php" class="clearfix">
